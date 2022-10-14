@@ -1,5 +1,4 @@
 
-# <div align=center><img src="https://raw.githubusercontent.com/trinity-units/trinity-units/main/images/banner.jpg" width="100%"></div>
 
 General unit converter aimed at the International System of Units, Imperial System and US Costumary Units. It has support for the main quantities, such as energy, velocity, mass, temperature and many others.
 
